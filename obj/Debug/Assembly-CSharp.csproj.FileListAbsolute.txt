@@ -1,0 +1,2 @@
+C:\dane\studia\5 semsetr\GUI\kokpit\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\dane\studia\5 semsetr\GUI\kokpit\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
